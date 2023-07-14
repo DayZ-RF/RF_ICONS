@@ -1,0 +1,290 @@
+ImageSetClass {
+ Name "rf_icons_inventory"
+ RefSize 1024 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{ABF343FD4D23DBDB}RF_ICONS/GUI/imagesets/rf_icons_inventory.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass rf_hatchet {
+   Name "rf_hatchet"
+   Pos 0 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_pliers {
+   Name "rf_pliers"
+   Pos 170 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_hammer {
+   Name "rf_hammer"
+   Pos 0 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_saw {
+   Name "rf_saw"
+   Pos 170 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_shovel {
+   Name "rf_shovel"
+   Pos 0 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_onepouch {
+   Name "rf_onepouch"
+   Pos 340 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_ammobox {
+   Name "rf_ammobox"
+   Pos 510 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_ifak {
+   Name "rf_ifak"
+   Pos 680 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_smallcase {
+   Name "rf_smallcase"
+   Pos 850 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_gaslamp {
+   Name "rf_gaslamp"
+   Pos 340 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_bottle {
+   Name "rf_bottle"
+   Pos 680 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_ifakpouch {
+   Name "rf_ifakpouch"
+   Pos 340 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_empouch {
+   Name "rf_empouch"
+   Pos 510 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_clock {
+   Name "rf_clock"
+   Pos 850 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_GasMaskFilter {
+   Name "rf_GasMaskFilter"
+   Pos 680 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_nbcbag {
+   Name "rf_nbcbag"
+   Pos 850 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_bigpouch {
+   Name "rf_bigpouch"
+   Pos 0 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_6b43_pax {
+   Name "rf_6b43_pax"
+   Pos 170 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_6b43_twopouch {
+   Name "rf_6b43_twopouch"
+   Pos 340 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_adrenaline {
+   Name "rf_adrenaline"
+   Pos 510 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_nacl {
+   Name "rf_nacl"
+   Pos 680 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_bitcoin {
+   Name "rf_bitcoin"
+   Pos 510 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_Vest {
+   Name "rf_Vest"
+   Pos 510 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_capacitor {
+   Name "rf_capacitor"
+   Pos 680 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_fanbar {
+   Name "rf_fanbar"
+   Pos 850 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_fan {
+   Name "rf_fan"
+   Pos 170 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_hacksaw_02 {
+   Name "rf_hacksaw_02"
+   Pos 0 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_hatchet_02 {
+   Name "rf_hatchet_02"
+   Pos 170 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_gazmask {
+   Name "rf_gazmask"
+   Pos 340 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_vest {
+   Name "rf_vest"
+   Pos 510 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_eyes {
+   Name "rf_eyes"
+   Pos 680 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_shield {
+   Name "rf_shield"
+   Pos 850 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_backpack {
+   Name "rf_backpack"
+   Pos 850 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_videocard {
+   Name "rf_videocard"
+   Pos 0 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_powergenerator {
+   Name "rf_powergenerator"
+   Pos 340 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_whetstone {
+   Name "rf_whetstone"
+   Pos 0 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_screwdriver {
+   Name "rf_screwdriver"
+   Pos 170 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_cablereel {
+   Name "rf_cablereel"
+   Pos 0 1190
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_safe {
+   Name "rf_safe"
+   Pos 340 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_nvg {
+   Name "rf_nvg"
+   Pos 510 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_BandageDressing {
+   Name "rf_BandageDressing"
+   Pos 510 1190
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_VitaminBottle {
+   Name "rf_VitaminBottle"
+   Pos 340 1190
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_VitaminPills {
+   Name "rf_VitaminPills"
+   Pos 170 1190
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_keycard {
+   Name "rf_keycard"
+   Pos 680 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_moneycase {
+   Name "rf_moneycase"
+   Pos 850 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_binoculus {
+   Name "rf_binoculus"
+   Pos 510 170
+   Size 170 170
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}

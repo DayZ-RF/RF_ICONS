@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{ABF343FD4D23DBDB}RF_ICONS/GUI/imagesets/rf_icons_inventory.edds"
+ Author "home-pc"
+ ChangeDate 1086369519
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "rf_icons_inventory.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

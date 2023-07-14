@@ -1,9 +1,9 @@
 #define _ARMA_
 
 class CfgPatches {
-	class RF_TEMPLATE_CL {
+	class RF_ICONS {
 		author = "Dad Fedor & romabeorn";
-		name = "RF_TEMPLATE_CL";
+		name = "RF_ICONS";
 		url = "https://discord.gg/d9kP7ezX3n";
 		units[] = {};
 		weapons[] = {};
@@ -20,22 +20,13 @@ class CfgPatches {
 };
 
 class CfgMods {
-	class RF_TEMPLATE_CL {
+	class RF_ICONS {
 		type="mod";
-		dir="RF_TEMPLATE_CL";
+		dir="RF_ICONS";
 		class defs {
-			class gameScriptModule {
-				value = "";
-				files[] = { "RF_TEMPLATE_CL/scripts/3_Game" };
-			};
-			class worldScriptModule {
-				value = "";
-				files[] = { "RF_TEMPLATE_CL/scripts/4_World" };
-			};
-			class missionScriptModule {
-				value = "";
-				files[] = { "RF_TEMPLATE_CL/scripts/5_Mission" };
-			};
+			class imageSets{
+                files[]= {"RF_ICONS/GUI/imagesets/rf_icons_inventory.imageset"};
+            };
 		};
 	};
 };
