@@ -74,7 +74,15 @@
 - rf_VitaminPills
 - rf_VitaminBottle
 - rf_BandageDressing
+- rf_electronics
+- rf_router
 
+#### 9 Line
+
+- rf_laptop
+- rf_charge_in
+- rf_visor
+- rf_tablet
 
 ## Features
 

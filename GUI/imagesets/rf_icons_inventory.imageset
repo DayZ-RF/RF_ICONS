@@ -284,6 +284,42 @@ ImageSetClass {
    Size 170 170
    Flags 0
   }
+  ImageSetDefClass rf_electronics {
+   Name "rf_electronics"
+   Pos 680 1190
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_router {
+   Name "rf_router"
+   Pos 850 1190
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_laptop {
+   Name "rf_laptop"
+   Pos 0 1360
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_charge_in {
+   Name "rf_charge_in"
+   Pos 170 1360
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_visor {
+   Name "rf_visor"
+   Pos 340 1360
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_tablet {
+   Name "rf_tablet"
+   Pos 510 1360
+   Size 170 170
+   Flags 0
+  }
  }
  Groups {
  }
