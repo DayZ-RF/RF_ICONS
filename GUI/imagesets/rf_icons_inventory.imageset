@@ -320,6 +320,24 @@ ImageSetClass {
    Size 170 170
    Flags 0
   }
+  ImageSetDefClass rf_garland {
+   Name "rf_garland"
+   Pos 680 1360
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_star {
+   Name "rf_star"
+   Pos 850 1360
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass rf_chrismas_ball {
+   Name "rf_chrismas_ball"
+   Pos 0 1530
+   Size 170 170
+   Flags 0
+  }
  }
  Groups {
  }

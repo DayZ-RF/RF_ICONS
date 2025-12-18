@@ -1,7 +1,7 @@
 MetaFileClass {
- Name "{ABF343FD4D23DBDB}RF_ICONS/GUI/imagesets/rf_icons_inventory.edds"
+ Name "{ABF343FD4D23DBDB}RF_ICONS/GUI/imagesets/rf_icons_inventory.png"
  Author "imperator"
- ChangeDate 693989738
+ ChangeDate -1486703726
  Configurations {
   PNGResourceClass PC {
    SourceFile "rf_icons_inventory.png"
